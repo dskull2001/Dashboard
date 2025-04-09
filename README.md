@@ -4,7 +4,7 @@ A cloud-native solution to automate and visualize financial data for SMEs. This 
 
 ## 📊 Project Architecture
 
-![dashboard](dashboard/Financial_Dashboard.png)
+![dashboard](Financial_Dashboard.png)
 
 ## 🛠️ Technologies Used
 - **Google Cloud Functions (2nd Gen)** – Python 3.11
